@@ -80,7 +80,7 @@ class bot:
             time.sleep(2)
 
 def init():
-    bot('abcdemo10', 'abcdemo', user, message_)
+    bot('username', 'password', user, message_)
     input("DONE")
 
 
