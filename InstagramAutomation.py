@@ -15,7 +15,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-user = ['jhilmilbindal','prachibindal0203 ']
+user = ['username','username']
 message_ = ("final test")
 
 
